@@ -17,11 +17,27 @@ Here are some ideas to get you started:
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/N4SK)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
+ [![Instagram Badge](https://img.shields.io/badge/-georgealan-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/naak_tv/)]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/cernandes?style=social)
 
 ## 👋 Hi I'm Nask!
+
+### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
+
+<details>
+<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+
+### 📖 Sobre mim
+Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2017, mas sou do tempo do ActionScript Flash, onde criava jogos no Adobe Flash utilizando ActionScript e esse foi o meu primeiro contato com programação.
+
+Sempre estive com um pé em artes gráficas, meu hobby é desenhar, e tenho conhecimentos em design, gosto de front-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de levar a arte para a programação.
+
+Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
+Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+</details>
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
