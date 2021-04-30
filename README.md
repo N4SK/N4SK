@@ -64,7 +64,8 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/java-%23F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white" height="25/>
+<img src="https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-WebStorm-C83C76?style=flat-square&logo=webstorm&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"/>
 
 </p>
