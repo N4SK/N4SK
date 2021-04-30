@@ -51,7 +51,7 @@ I'm in the beginning of my technologies road map, always studying something new 
 
 Contributions are welcome, feel free to contact me or colaborate at my projects.
 
-## 💻 Technologies & Tools
+## 💼 Technologies & Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" height=25/>
