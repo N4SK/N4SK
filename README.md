@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/N4SK)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
- [![Gmail Badge](https://img.shields.io/badge/-georgealan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgealan@gmail.com)](mailto:georgealanrufo@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-klaus.scofield.7.777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Klaus.scofield.7.777@gmail.com)](mailto:klaus.scofield.7.777@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Nask_tv-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Nask_tv/)](https://www.instagram.com/Nask_tv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:klaus.scofield.7.777@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
