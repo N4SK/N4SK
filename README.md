@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :man_technologist: George Alan
-[![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/)
-[![Medium Badge](https://img.shields.io/badge/-KodyWeb-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/kodyweb)](https://medium.com/kodyweb)
+# :man_technologist: N4SK
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/N4SK)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
