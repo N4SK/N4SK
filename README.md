@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Nask_tv-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Nask_tv/)](https://www.instagram.com/Nask_tv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:klaus.scofield.7.777@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/cernandes?style=social)
+![GitHub followers](https://img.shields.io/github/followers/N4SK?style=social)
 
 ## 👋 Hi I'm Nask!
 
