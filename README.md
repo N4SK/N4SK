@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 # :man_technologist: George Alan
 [![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/george-alan-fullstack-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-georgealan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgealan@gmail.com)](mailto:georgealanrufo@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Nask_tv-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Nask_tv/)](https://www.instagram.com/Nask_tv/)
 [![Medium Badge](https://img.shields.io/badge/-KodyWeb-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/kodyweb)](https://medium.com/kodyweb)
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/N4SK)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudioernandessilva)
- [![Instagram Badge](https://img.shields.io/badge/-nask_tv-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nask_tv/)]
+ [![Gmail Badge](https://img.shields.io/badge/-georgealan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgealan@gmail.com)](mailto:georgealanrufo@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Nask_tv-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Nask_tv/)](https://www.instagram.com/Nask_tv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cernandes.silva@gmail.com)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cernandes.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/cernandes?style=social)
